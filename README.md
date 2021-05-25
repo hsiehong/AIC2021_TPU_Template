@@ -1,6 +1,10 @@
 # AIC2021 Project1 - TPU
 ###### tags: `aic2021` 
 
+## Student info
+* student name : 謝宜紘
+* student ID : P76091161
+
 ## Project Description
 Design a Tensor Processing Unit(TPU) which has **4x4** Processing elements(PEs) that is capable to calculate ```(4*K)*(K*4)``` 8-bit integer matrix muplication. (Where is ```K``` is limited by the size of input global buffer)
 
